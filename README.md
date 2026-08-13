@@ -1,0 +1,1 @@
+The analysis script requires access to the underlying clinical research dataset and preceding data-preparation objects. Patient-level data are not included because of data-access and confidentiality restrictions.
